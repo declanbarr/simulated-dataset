@@ -1,5 +1,5 @@
 # simulated-dataset
-##Simulating a dataset based on a real-world phenonmenon
+## Simulating a dataset based on a real-world phenonmenon
 
 ### What's contained in this repository
 
